@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: white;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-radius: 8px;
+  cursor: pointer;
+  border-width: 2px;
+}

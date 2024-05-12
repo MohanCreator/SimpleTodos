@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffc2a0;
+  height: 100%;
+  background-size: cover;
+}
+.container {
+  margin: 40px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.heading {
+  text-align: center;
+  color: #ff8542;
+  font-family: 'Roboto';
+}
+
+.listContainer {
+  list-style: none;
+}
